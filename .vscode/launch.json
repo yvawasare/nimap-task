@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CategoryCrudOperationApplication<Category_CRUD_operation>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.manish.CRUDoperation.CategoryCrudOperationApplication",
+            "projectName": "Category_CRUD_operation",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
